@@ -3,7 +3,11 @@
 A Discord bot for tracking guild activity and looking up player stats,
 built for the Vectius guild Discord server.
 
-**Status: in development.**
+## Status
+
+**In development.** The code isn't finished yet and is still being worked
+on. Right now this repository contains only this README, which describes
+the planned project. The code will be added as I build it.
 
 ## Planned features
 
