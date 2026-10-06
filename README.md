@@ -1,7 +1,7 @@
 # Guild Activity Bot
 
 A Discord bot for tracking guild activity and looking up player stats,
-built for the Vectius guild Discord server.
+built for the Defeat guild Discord server.
 
 ## Status
 
